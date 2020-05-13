@@ -6,6 +6,10 @@ Example of application of genetic algorithm for evolution flappy bird controller
 
 Happy Fish is a casual game where you control a fish and have to guide him through the obstacles. Tap the screen to make the fish swim, in order to dodge all these obstacles.
 
+<p align="center">
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/game.png" width="600"/>
+</p>
+
 Happy Fish game developed at Unity 2019.3.10
 
 -   Mobile game: [https://play.google.com/store/apps/details?id=com.kleberandrade.happyfish](https://play.google.com/store/apps/details?id=com.kleberandrade.happyfish)
