@@ -19,7 +19,7 @@ Happy Fish game developed at Unity 2019.3.10
 ### Chromosome
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/chromosome.png" width="800"/>
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/brain.png" width="800"/>
 </p>
 
 ### Fitness Function
