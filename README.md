@@ -13,13 +13,13 @@ Happy Fish game developed at Unity 2019.3.10
 ## Genetic Algorithm (GA)
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/algorithm.png" width="600"/>
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/algorithm.png" width="800"/>
 </p>
 
 ### Chromosome
 
 <p align="center">
-  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/chromosome.png" width="600"/>
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/chromosome.png" width="800"/>
 </p>
 
 ### Fitness Function
