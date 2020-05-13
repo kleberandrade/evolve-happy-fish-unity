@@ -12,23 +12,21 @@ Happy Fish game developed at Unity 2019.3.10
 
 ## Genetic Algorithm (GA)
 
-### Implementation
-
-1.  Generate the initial population of individuals randomly (First generation).
-2.  Evaluate the fitness of each individual in that population (time limit, sufficient fitness achieved, etc)
-3.  Repeat the following regenerational steps until termination:
-4.  Select the best-fit individuals for reproduction (Parents)
-5.  Breed new individuals through crossover and mutation operations to give birth to child.
-6.  Evaluate the individual fitness of new individuals.
-7.  Replace least-fit population with new individuals.
+<p align="center">
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/algorithm.png" width="600"/>
+</p>
 
 ### Chromosome
 
-Text ...
+<p align="center">
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/chromosome.png" width="600"/>
+</p>
 
 ### Fitness Function
 
 Fitness Function (also known as the Evaluation Function) evaluates how close a given solution is to the optimum solution of the desired problem.
+
+-   We use the lifetime of the fish
 
 ### Elitism
 
@@ -48,6 +46,10 @@ In a uniform crossover, we don’t divide the chromosome into segments, rather w
 
 Random mutation is an extension of the bit flip for the integer representation. In this, a random value from the set of permissible values is assigned to a randomly chosen gene.
 
+<p align="center">
+  <img src="https://github.com/kleberandrade/evolve-happy-fish-unity/blob/master/Figures/operators.png" width="300"/>
+</p>
+
 ## Experiments and Results
 
 Initial setup of the experiment
@@ -56,10 +58,10 @@ Initial setup of the experiment
 |------------------	              |:-----:|
 | Population size  	              |  20   |
 | Elitism          	              |  10%   |
-| Blend Crossover    	          |  0,20  |
+| Blend Crossover    	          |  0,2  |
 | Mutation rate    	              |   2%  |
-| Tournament size  	              |   2   |
-| Trial time      	              |   100s |
+| Tournament size  	              |   2 indivi  |
+| Trial time      	              |   100 seconds |
 
 Video: [https://www.youtube.com/watch?v=bmvs9ugStgg](https://www.youtube.com/watch?v=bmvs9ugStgg)
 
